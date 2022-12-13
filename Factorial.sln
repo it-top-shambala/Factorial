@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial.App", "Factorial.App\Factorial.App.csproj", "{63DD502F-F5CB-403C-9B65-945C34E738A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial.Lib", "Factorial.Lib\Factorial.Lib.csproj", "{F4F9B8CF-67E6-46FE-AB34-9CDE59E7358E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DD502F-F5CB-403C-9B65-945C34E738A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DD502F-F5CB-403C-9B65-945C34E738A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DD502F-F5CB-403C-9B65-945C34E738A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DD502F-F5CB-403C-9B65-945C34E738A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F9B8CF-67E6-46FE-AB34-9CDE59E7358E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F9B8CF-67E6-46FE-AB34-9CDE59E7358E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F9B8CF-67E6-46FE-AB34-9CDE59E7358E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F9B8CF-67E6-46FE-AB34-9CDE59E7358E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
